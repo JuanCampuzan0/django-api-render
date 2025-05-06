@@ -5,6 +5,6 @@ from rest_framework.decorators import api_view
 def authors(request):
     return Response({
         "Juan David Campuzano Díaz": "338832",
-        "Yuly": "123456",
-        "Juan Diego Lemus": "654321"
+        "Yuly Dayana Rodriguez": "305314",
+        "Juan Diego Lemus": "243911"
     })
