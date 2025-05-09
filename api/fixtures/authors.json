@@ -1,0 +1,27 @@
+[
+  {
+    "model": "api.author",
+    "pk": 1,
+    "fields": {
+      "name": "Juan David Campuzano",
+      "code": "338832"
+    }
+  },
+  {
+    "model": "api.author",
+    "pk": 2,
+    "fields": {
+      "name": "Yuli",
+      "code": "305314"
+    }
+  },
+  {
+    "model": "api.author",
+    "pk": 3,
+    "fields": {
+      "name": "Juan Diego Lemus",
+      "code": "243911"
+    }
+  }
+]
+
